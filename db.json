@@ -1,0 +1,25 @@
+{
+  "logs": [],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "Nitish",
+      "lastName": "Kalra"
+    },
+    {
+      "firstName": "Muskan",
+      "lastName": "Verma",
+      "id": 5
+    },
+    {
+      "firstName": "Bunty",
+      "lastName": "Chhatri",
+      "id": 6
+    },
+    {
+      "firstName": "Nitish",
+      "lastName": "Kalra",
+      "id": 7
+    }
+  ]
+}
